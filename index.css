@@ -1,0 +1,61 @@
+.ft{
+    font-weight: 600;
+ 
+
+}
+.con1 a:hover{
+    color: rgb(255, 28, 168) !important;
+}
+.bt1{
+    border: none ;
+}
+.hth1{
+    background-color: rgb(245, 33, 157);
+    margin-left: 22rem;
+    font-weight: 600;
+}
+.hth1:hover{
+    background-color: rgb(235, 57, 161);
+}
+.btnbt{
+    background-color: rgb(245, 33, 157);
+}
+.btnbt:hover{
+    background-color: rgb(235, 57, 161);
+}
+@media only screen and (min-width: 1357px) {
+    .hth1{ margin-left: 35rem;}
+
+}
+@media only screen and (max-width: 1357px) {
+    .hth1{ margin-left: 20rem;}
+
+}
+@media only screen and (max-width: 1127px) {
+    .hth1{ margin-left: 15rem;}
+
+}
+
+@media only screen and (max-width: 990px) {
+    .hth1{display: none;}
+
+}
+.foot{
+    border: none;
+}
+.fc1{
+    text-decoration: none !important;
+    color: rgb(245, 33, 157);;
+}
+.fc1:hover{
+    color: rgb(235, 57, 161);
+}
+
+.ps1{
+    text-decoration: none !important;
+  
+    color: rgb(0, 0, 0);;
+}
+.ps1:hover{
+    color: rgb(235, 57, 161);
+}
