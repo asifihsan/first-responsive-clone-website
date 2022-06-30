@@ -16,6 +16,7 @@
 }
 .hth1:hover{
     background-color: rgb(235, 57, 161);
+
 }
 .btnbt{
     background-color: rgb(245, 33, 157);
@@ -23,12 +24,35 @@
 .btnbt:hover{
     background-color: rgb(235, 57, 161);
 }
-@media only screen and (min-width: 1357px) {
-    .hth1{ margin-left: 35rem;}
-
+@media only screen and (max-width: 195px) {
+    .hl3{
+        margin-left: 2px !important;
+    }
+    
+  
+}
+@media (max-width:289px) {
+    .fh1{
+        font-size: 2rem !important;
+    }
+    
+}
+@media only screen and (max-width: 148px) {
+    .hl3{
+        margin-left: 2px !important;
+        margin-right: 0px !important;
+    }
+    
+    .nav3as{
+        margin-right: 0px !important;
+        margin-left: px !important;
+    }
+  
 }
 @media only screen and (max-width: 1357px) {
     .hth1{ margin-left: 20rem;}
+   
+
 
 }
 @media only screen and (max-width: 1127px) {
